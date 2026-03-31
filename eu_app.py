@@ -758,7 +758,7 @@ def offerings_tab():
 
 # --- Main ---
 def main():
-    st.title("CSM Backend Portal - Next Quarter")
+    st.title("CSM Backend Portal - Next Quarter - EU")
 
     if st.session_state.setup_complete:
         with st.sidebar:
